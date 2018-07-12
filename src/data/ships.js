@@ -45,7 +45,7 @@ module.exports = [{
 	hull: 6,
 	shields: 4,
 	cost: 28,
-	text: "<b>ACTION:</b> If this ship has one or more destroyed shields, flip 1 Specialization card equipped to this ship: Repair one Shield on this ship.",
+	text: "Wenn dieses Schiff einen oder mehrere zerstörte Schilde hat, flip 1 Spezialisierungskarte für dieses Schiff: Repariert einen Schild auf diesem Schiff.",
 	unique: true,
 	factions: ["mirror-universe", "federation"],
 	squadron: false
@@ -62,7 +62,7 @@ module.exports = [{
 	hull: 4,
 	shields: 3,
 	cost: 21,
-	text: "<b>WHEN ATTACKING:</b> Place 2 [time] Tokens on this card. This game round, for each other friendly ship that attacked the defending ship this game round, this ship rolls +1 attack die and may convert 1 [blank] into 1 [battlestations].",
+	text: "<b>BEIM ANGRIFF:</b> Lege 2 [Time] Token auf dieser Karte. Diese Spielrunde, für jedes andere befreundete Schiff, das das verteidigende Schiff in dieser Spielrunde angegriffen hat, würfelt dieses Schiff +1 Angriffswürfel und kann 1 [blank] in 1 [battlestations] umwandeln",
 	unique: true,
 	factions: ["mirror-universe", "klingon"],
 	squadron: false

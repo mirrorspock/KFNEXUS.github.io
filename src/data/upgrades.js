@@ -37,8 +37,8 @@ module.exports = [{
 	cost: 4,
 	text: "<b>ACTIVATION PHASE:</b> Place 3 [time] Tokens on this card. Increase the Captain Skill of the Captain equipped to this ship by 2 this game round and perform a [battlestations] Action as a free Action.",
 	unique: true,
-	talents: 1, 
-	factions: ["mirror-universe","federation"]
+	talents: 1,
+	factions: ["mirror-universe", "federation"]
 }, {
 	type: "talent",
 	id: "overwhelm_75005",
@@ -59,7 +59,7 @@ module.exports = [{
 	text: "<b>SETUP:</b> Place 1 Disabled Token on 1 [crew] upgrade equipped to each opposing ship.",
 	unique: true,
 	shipKlingon: true,
-	factions: ["mirror-universe","klingon"]
+	factions: ["mirror-universe", "klingon"]
 }, {
 	type: "weapon",
 	id: "advanced_long_range_torpedo_75005",
@@ -71,7 +71,7 @@ module.exports = [{
 	unique: true,
 	range: "2 - 3",
 	shipLimit: true,
-	factions: ["mirror-universe","federation"]
+	factions: ["mirror-universe", "federation"]
 }, {
 	type: "squadron",
 	id: "lead_squadron_73041",
@@ -700,7 +700,7 @@ module.exports = [{
 	cost: 3,
 	text: "<b>ACTIVATION PHASE:</b> Discard this card and target a Captain or [crew] Upgrade equipped to an opposing ship.\n\nThe target Captain or [crew] Upgrade cannot perfrom Actions this game round.",
 	unique: true,
-	range:"1 - 2",
+	range: "1 - 2",
 	factions: ["romulan"]
 }, {
 	type: "tech",

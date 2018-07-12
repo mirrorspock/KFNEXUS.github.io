@@ -6,16 +6,16 @@ module.exports = [{
 	rearArc: "",
 	maneuvers: {
 		1: {
-			
+
 		},
 		2: {
-			
+
 		},
 		3: {
-			
+
 		},
 		4: {
-			
+
 		},
 		min: 1,
 		max: 4
@@ -28,21 +28,21 @@ module.exports = [{
 	rearArc: "",
 	maneuvers: {
 		1: {
-			
+
 		},
 		2: {
-			
+
 		},
 		3: {
-			
+
 		},
 		4: {
-			
+
 		},
 		min: 1,
 		max: 4
 	}
-},{
+}, {
 	type: "ship-class",
 	id: "72224p",
 	name: "Xindi Reptilian Warship",

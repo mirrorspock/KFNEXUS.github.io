@@ -11,7 +11,7 @@ module.exports = [{
 	hull: 4,
 	shields: 3,
 	cost: 21,
-	text: "<b>WHEN A FRIENDLY SHIP WITHIN RANGE 1 IS DEFENDING:</b> The friendly ship may roll +1 defense die. If that friendly ship is an (<i>Andorian Battle Cruiser</i>), it may also convert one [blank] result into one [evade] result. If the attacking ship is a Vulcan Ship, that friendly ship may also add one [evade].",
+	text: "<b>WANN EIN FREUNDLICHES SCHIFF IM BEREICH 1 VERTEIDIGT:</b> Das freundliche Schiff kann +1 Verteidigungswürfel rollen. Wenn dieses freundliche Schiff ein (<i>Andorian Battle Cruiser</i>) ist, kann es auch ein [blank] Ergebnis in ein [evade] Ergebnis umwandeln. Wenn das angreifende Schiff ein vulkanisches Schiff ist, kann dieses befreundete Schiff auch eine [evade] hinzufügen.",
 	unique: true,
 	factions: ["independent"],
 	squadron: false
@@ -28,7 +28,7 @@ module.exports = [{
 	hull: 3,
 	shields: 3,
 	cost: 18,
-	text: "You may equip the Inertial Compensators upgrade to this ship for free and without requiring an upgrade slot.\n<b>WHEN ATTACKING:</b> If the defending ship is hit: Place an [aux] token beside the defending ship.",
+	text: "Sie können das Trägheitskompensatoren Upgrade kostenlos auf dieses Schiff aufrüsten, ohne einen Upgrade-Slot zu benötigen: Platzieren Sie ein [aux] neben dem verteidigenden Schiff.",
 	unique: true,
 	factions: ["independent"],
 	squadron: false
